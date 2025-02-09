@@ -1,1 +1,1 @@
-Sitio web en proceso creado con React y Express.JS.
+Ecommerce en proceso creado con React y Express.JS.
